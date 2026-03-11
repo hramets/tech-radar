@@ -3,7 +3,7 @@ name: AI News Bot
 # When to run the bot
 on:
   schedule:
-    - cron: "*/5 * * * *"  # every day at 09:00 UTC
+    - cron: "0 8 * * *"  # every day at 09:00 UTC
 
 jobs:
   run-bot:
