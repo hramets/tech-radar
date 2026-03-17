@@ -4,7 +4,7 @@ name: AI News Bot
 on:
   schedule:
     - cron: "0 9 * * *"  # every day at 09:00 UTC
-  
+  workflow_dispatch:       # optional: allows manual run from GitHub
 
 jobs:
   run-bot:
@@ -19,15 +19,15 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11
+          python-version: 3.13
 
       # Step 3: Install dependencies
       - name: Install dependencies
         run: pip install -r requirements.txt
 
       # Step 4: Run the bot
-      - name: Run AI News Bot
-        run: python ai_radar.py
+      - name: Run Tech News Bot
+        run: python tech_radar.py
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
