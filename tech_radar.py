@@ -86,8 +86,6 @@ def main():
                 news.append(to_add)
 
     github_projects = get_github_trending()
-    print(news)
-    print(github_projects)
 
     news_text = "\n".join(news)
     github_text = "\n".join(github_projects)
