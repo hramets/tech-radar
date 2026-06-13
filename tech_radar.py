@@ -4,6 +4,41 @@ import requests
 from bs4 import BeautifulSoup
 from openai import OpenAI
 import os
+import json
+
+
+# File that remembers which repos were already sent, so we don't repeat them.
+SEEN_FILE = "seen_repos.json"
+# Don't show the same repo again within this many days.
+DEDUP_DAYS = 30
+
+
+def load_seen_repos():
+    """Load the {repo_name: ISO-date} map of repos already sent, pruning old entries."""
+    if not os.path.exists(SEEN_FILE):
+        return {}
+    try:
+        with open(SEEN_FILE, "r", encoding="utf-8") as f:
+            seen = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=DEDUP_DAYS)
+    pruned = {}
+    for name, date_str in seen.items():
+        try:
+            seen_date = datetime.fromisoformat(date_str)
+        except (ValueError, TypeError):
+            continue
+        if seen_date >= cutoff:
+            pruned[name] = date_str
+    return pruned
+
+
+def save_seen_repos(seen):
+    """Persist the {repo_name: ISO-date} map of repos already sent."""
+    with open(SEEN_FILE, "w", encoding="utf-8") as f:
+        json.dump(seen, f, indent=2, ensure_ascii=False)
 
 
 def get_github_trending(since="daily"):
@@ -49,7 +84,7 @@ def get_github_trending(since="daily"):
                 stars = star_elem.get_text(strip=True)
             
             repo_info = f"{repo_name}\nDescription: {description}\nStars: {stars}\nURL: {repo_url}"
-            repos.append(repo_info)
+            repos.append({"name": repo_name, "info": repo_info})
         except Exception as e:
             continue
 
@@ -93,10 +128,13 @@ def main():
                 to_add = f"Fetched news: Datetime: {entry_date.strftime('%Y-%m-%d %H:%M:%S')} - {entry.title} ({entry.title_detail['value']})\nSUMMARY: {entry.summary_detail['value']}\nLink: {entry.link}"
                 news.append(to_add)
 
-    github_projects = get_github_trending()
+    # Get trending repos, then drop any we've already sent recently.
+    seen_repos = load_seen_repos()
+    all_github_projects = get_github_trending()
+    github_projects = [p for p in all_github_projects if p["name"] not in seen_repos]
 
     news_text = "\n".join(news)
-    github_text = "\n".join(github_projects)
+    github_text = "\n".join(p["info"] for p in github_projects)
 
     # Send News to GPT separately
     news_prompt = f"""
@@ -140,11 +178,14 @@ def main():
     )
     news_summary = response_news.choices[0].message.content
 
-    response_github = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": github_prompt}]
-    )
-    github_summary = response_github.choices[0].message.content
+    if github_projects:
+        response_github = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[{"role": "user", "content": github_prompt}]
+        )
+        github_summary = response_github.choices[0].message.content
+    else:
+        github_summary = "No new trending projects today."
 
     # Send to Telegram
     telegram_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
@@ -168,6 +209,13 @@ def main():
         tg_response = requests.post(telegram_url, data=telegram_data)
     except Exception as e:
         raise RuntimeError(f"❌ Error sending github: {e}")
+
+    # Remember the repos we just sent so they aren't repeated next runs.
+    today = datetime.now(timezone.utc).isoformat()
+    for project in github_projects:
+        seen_repos[project["name"]] = today
+    save_seen_repos(seen_repos)
+
 
 if __name__ == "__main__":
     main()

@@ -10,6 +10,9 @@ jobs:
   run-bot:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write   # needed to commit the updated seen_repos.json
+
     steps:
       # Step 1: Checkout the repo
       - name: Checkout repository
@@ -32,3 +35,16 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           OPENAI_KEY: ${{ secrets.OPENAI_KEY }}
+
+      # Step 5: Persist the list of already-sent repos
+      - name: Commit seen_repos.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_repos.json
+          if git diff --staged --quiet; then
+            echo "No changes to seen_repos.json"
+          else
+            git commit -m "Update seen_repos.json [skip ci]"
+            git push
+          fi
