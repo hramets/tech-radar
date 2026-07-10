@@ -183,5 +183,18 @@
   "vxcontrol/pentagi": "2026-07-09T11:56:27.242392+00:00",
   "unclecode/crawl4ai": "2026-07-09T11:56:27.242392+00:00",
   "imthenachoman/How-To-Secure-A-Linux-Server": "2026-07-09T11:56:27.242392+00:00",
-  "huxingyi/autoremesher": "2026-07-09T11:56:27.242392+00:00"
+  "huxingyi/autoremesher": "2026-07-09T11:56:27.242392+00:00",
+  "oven-sh/bun": "2026-07-10T11:50:46.527772+00:00",
+  "abseil/abseil-cpp": "2026-07-10T11:50:46.527772+00:00",
+  "jbeder/yaml-cpp": "2026-07-10T11:50:46.527772+00:00",
+  "microsoft/TypeScript": "2026-07-10T11:50:46.527772+00:00",
+  "catchorg/Catch2": "2026-07-10T11:50:46.527772+00:00",
+  "chriskohlhoff/asio": "2026-07-10T11:50:46.527772+00:00",
+  "davila7/claude-code-templates": "2026-07-10T11:50:46.527772+00:00",
+  "zeux/meshoptimizer": "2026-07-10T11:50:46.527772+00:00",
+  "tailscale/tailscale": "2026-07-10T11:50:46.527772+00:00",
+  "google-labs-code/stitch-skills": "2026-07-10T11:50:46.527772+00:00",
+  "hashicorp/terraform": "2026-07-10T11:50:46.527772+00:00",
+  "grpc/grpc": "2026-07-10T11:50:46.527772+00:00",
+  "vercel/next.js": "2026-07-10T11:50:46.527772+00:00"
 }
