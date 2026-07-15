@@ -1,13 +1,4 @@
 {
-  "freeCodeCamp/freeCodeCamp": "2026-06-14T11:29:51.078311+00:00",
-  "pytest-dev/pytest": "2026-06-14T11:29:51.078311+00:00",
-  "meshery/meshery": "2026-06-14T11:29:51.078311+00:00",
-  "cypress-io/cypress": "2026-06-14T11:29:51.078311+00:00",
-  "GorvGoyl/Clone-Wars": "2026-06-14T11:29:51.078311+00:00",
-  "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots": "2026-06-14T11:29:51.078311+00:00",
-  "shiyu-coder/Kronos": "2026-06-14T11:29:51.078311+00:00",
-  "Free-TV/IPTV": "2026-06-14T11:29:51.078311+00:00",
-  "puppeteer/puppeteer": "2026-06-14T11:29:51.078311+00:00",
   "teslamate-org/teslamate": "2026-06-15T15:14:36.340456+00:00",
   "Panniantong/Agent-Reach": "2026-06-15T15:14:36.340456+00:00",
   "krahets/hello-algo": "2026-06-15T15:14:36.340456+00:00",
@@ -190,5 +181,11 @@
   "Nutlope/hallmark": "2026-07-13T12:01:45.644411+00:00",
   "Graphify-Labs/graphify": "2026-07-13T12:01:45.644411+00:00",
   "github/spec-kit": "2026-07-13T12:01:45.644411+00:00",
-  "coreyhaines31/marketingskills": "2026-07-13T12:01:45.644411+00:00"
+  "coreyhaines31/marketingskills": "2026-07-13T12:01:45.644411+00:00",
+  "1c7/chinese-independent-developer": "2026-07-15T10:48:27.000846+00:00",
+  "virattt/ai-hedge-fund": "2026-07-15T10:48:27.000846+00:00",
+  "AIEraDev/Clypra": "2026-07-15T10:48:27.000846+00:00",
+  "par274/sharpemu": "2026-07-15T10:48:27.000846+00:00",
+  "chenyme/grok2api": "2026-07-15T10:48:27.000846+00:00",
+  "HenryNdubuaku/maths-cs-ai-compendium": "2026-07-15T10:48:27.000846+00:00"
 }
