@@ -1,13 +1,4 @@
 {
-  "teslamate-org/teslamate": "2026-06-15T15:14:36.340456+00:00",
-  "Panniantong/Agent-Reach": "2026-06-15T15:14:36.340456+00:00",
-  "krahets/hello-algo": "2026-06-15T15:14:36.340456+00:00",
-  "trycua/cua": "2026-06-15T15:14:36.340456+00:00",
-  "jwasham/coding-interview-university": "2026-06-15T15:14:36.340456+00:00",
-  "rohitg00/ai-engineering-from-scratch": "2026-06-15T15:14:36.340456+00:00",
-  "Raphire/Win11Debloat": "2026-06-15T15:14:36.340456+00:00",
-  "mikeroyal/Self-Hosting-Guide": "2026-06-15T15:14:36.340456+00:00",
-  "itsfatduck/optimizerDuck": "2026-06-15T15:14:36.340456+00:00",
   "Universal-Debloater-Alliance/universal-android-debloater-next-generation": "2026-06-16T13:27:59.440545+00:00",
   "OpenBMB/VoxCPM": "2026-06-16T13:27:59.440545+00:00",
   "alibaba/zvec": "2026-06-16T13:27:59.440545+00:00",
@@ -187,5 +178,16 @@
   "AIEraDev/Clypra": "2026-07-15T10:48:27.000846+00:00",
   "par274/sharpemu": "2026-07-15T10:48:27.000846+00:00",
   "chenyme/grok2api": "2026-07-15T10:48:27.000846+00:00",
-  "HenryNdubuaku/maths-cs-ai-compendium": "2026-07-15T10:48:27.000846+00:00"
+  "HenryNdubuaku/maths-cs-ai-compendium": "2026-07-15T10:48:27.000846+00:00",
+  "apache/ossie": "2026-07-16T10:58:34.823588+00:00",
+  "PostHog/posthog": "2026-07-16T10:58:34.823588+00:00",
+  "openinterpreter/openinterpreter": "2026-07-16T10:58:34.823588+00:00",
+  "PrismML-Eng/Bonsai-demo": "2026-07-16T10:58:34.823588+00:00",
+  "lobehub/lobehub": "2026-07-16T10:58:34.823588+00:00",
+  "YimMenu/YimMenuV2": "2026-07-16T10:58:34.823588+00:00",
+  "HKUDS/DeepTutor": "2026-07-16T10:58:34.823588+00:00",
+  "github/copilot-sdk": "2026-07-16T10:58:34.823588+00:00",
+  "ibelick/ui-skills": "2026-07-16T10:58:34.823588+00:00",
+  "codecrafters-io/build-your-own-x": "2026-07-16T10:58:34.823588+00:00",
+  "ossu/computer-science": "2026-07-16T10:58:34.823588+00:00"
 }
