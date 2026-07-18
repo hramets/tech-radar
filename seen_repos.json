@@ -1,16 +1,4 @@
 {
-  "DeusData/codebase-memory-mcp": "2026-06-17T12:51:31.921511+00:00",
-  "google-research/timesfm": "2026-06-17T12:51:31.921511+00:00",
-  "RocketChat/Rocket.Chat": "2026-06-17T12:51:31.921511+00:00",
-  "continuedev/continue": "2026-06-17T12:51:31.921511+00:00",
-  "penpot/penpot": "2026-06-17T12:51:31.921511+00:00",
-  "mattpocock/skills": "2026-06-17T12:51:31.921511+00:00",
-  "yairm210/Unciv": "2026-06-17T12:51:31.921511+00:00",
-  "bytedance/UI-TARS-desktop": "2026-06-17T12:51:31.921511+00:00",
-  "nautechsystems/nautilus_trader": "2026-06-17T12:51:31.921511+00:00",
-  "calesthio/OpenMontage": "2026-06-17T12:51:31.921511+00:00",
-  "alexzhang13/rlm": "2026-06-17T12:51:31.921511+00:00",
-  "makeplane/plane": "2026-06-17T12:51:31.921511+00:00",
   "zai-org/GLM-5": "2026-06-18T12:25:25.938360+00:00",
   "withastro/flue": "2026-06-18T12:25:25.938360+00:00",
   "Kilo-Org/kilocode": "2026-06-18T12:25:25.938360+00:00",
@@ -185,5 +173,10 @@
   "github/copilot-sdk": "2026-07-16T10:58:34.823588+00:00",
   "ibelick/ui-skills": "2026-07-16T10:58:34.823588+00:00",
   "codecrafters-io/build-your-own-x": "2026-07-16T10:58:34.823588+00:00",
-  "ossu/computer-science": "2026-07-16T10:58:34.823588+00:00"
+  "ossu/computer-science": "2026-07-16T10:58:34.823588+00:00",
+  "anthropics/cwc-workshops": "2026-07-18T10:17:29.989017+00:00",
+  "protocolbuffers/protobuf": "2026-07-18T10:17:29.989017+00:00",
+  "tirth8205/code-review-graph": "2026-07-18T10:17:29.989017+00:00",
+  "docusealco/docuseal": "2026-07-18T10:17:29.989017+00:00",
+  "RyanCodrai/turbovec": "2026-07-18T10:17:29.989017+00:00"
 }
