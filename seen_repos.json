@@ -1,10 +1,4 @@
 {
-  "Stirling-Tools/Stirling-PDF": "2026-06-22T14:39:02.071150+00:00",
-  "garrytan/gstack": "2026-06-22T14:39:02.071150+00:00",
-  "heygen-com/hyperframes": "2026-06-22T14:39:02.071150+00:00",
-  "firecrawl/firecrawl": "2026-06-22T14:39:02.071150+00:00",
-  "JCodesMore/ai-website-cloner-template": "2026-06-22T14:39:02.071150+00:00",
-  "lyogavin/airllm": "2026-06-22T14:39:02.071150+00:00",
   "anthropics/claude-plugins-official": "2026-06-23T12:06:30.302893+00:00",
   "shanraisshan/claude-code-best-practice": "2026-06-23T12:06:30.302893+00:00",
   "revfactory/harness": "2026-06-23T12:06:30.302893+00:00",
@@ -182,5 +176,11 @@
   "DioxusLabs/dioxus": "2026-07-22T11:08:22.959886+00:00",
   "hyprwm/Hyprland": "2026-07-22T11:08:22.959886+00:00",
   "Pumpkin-MC/Pumpkin": "2026-07-22T11:08:22.959886+00:00",
-  "dottxt-ai/outlines": "2026-07-22T11:08:22.959886+00:00"
+  "dottxt-ai/outlines": "2026-07-22T11:08:22.959886+00:00",
+  "block/buzz": "2026-07-23T11:08:02.268326+00:00",
+  "citrolabs/ego-lite": "2026-07-23T11:08:02.268326+00:00",
+  "earthtojake/text-to-cad": "2026-07-23T11:08:02.268326+00:00",
+  "alibaba/open-code-review": "2026-07-23T11:08:02.268326+00:00",
+  "Automattic/harper": "2026-07-23T11:08:02.268326+00:00",
+  "jellyfin/jellyfin": "2026-07-23T11:08:02.268326+00:00"
 }
