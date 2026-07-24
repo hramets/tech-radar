@@ -1,9 +1,4 @@
 {
-  "anthropics/claude-plugins-official": "2026-06-23T12:06:30.302893+00:00",
-  "shanraisshan/claude-code-best-practice": "2026-06-23T12:06:30.302893+00:00",
-  "revfactory/harness": "2026-06-23T12:06:30.302893+00:00",
-  "NousResearch/hermes-agent": "2026-06-23T12:06:30.302893+00:00",
-  "affaan-m/ECC": "2026-06-23T12:06:30.302893+00:00",
   "interviewstreet/hiring-agent": "2026-06-24T11:44:07.277565+00:00",
   "flutter/flutter": "2026-06-24T11:44:07.277565+00:00",
   "andreknieriem/headunit-revived": "2026-06-24T11:44:07.277565+00:00",
@@ -182,5 +177,9 @@
   "earthtojake/text-to-cad": "2026-07-23T11:08:02.268326+00:00",
   "alibaba/open-code-review": "2026-07-23T11:08:02.268326+00:00",
   "Automattic/harper": "2026-07-23T11:08:02.268326+00:00",
-  "jellyfin/jellyfin": "2026-07-23T11:08:02.268326+00:00"
+  "jellyfin/jellyfin": "2026-07-23T11:08:02.268326+00:00",
+  "yorukot/superfile": "2026-07-24T11:03:06.525221+00:00",
+  "mattpocock/skills": "2026-07-24T11:03:06.525221+00:00",
+  "Lordog/dive-into-llms": "2026-07-24T11:03:06.525221+00:00",
+  "OtterMind/Chat2DB": "2026-07-24T11:03:06.525221+00:00"
 }
