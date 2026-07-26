@@ -1,11 +1,4 @@
 {
-  "xbtlin/ai-berkshire": "2026-06-25T11:39:39.760006+00:00",
-  "mauriceboe/TREK": "2026-06-25T11:39:39.760006+00:00",
-  "aws/agent-toolkit-for-aws": "2026-06-25T11:39:39.760006+00:00",
-  "alibaba/page-agent": "2026-06-25T11:39:39.760006+00:00",
-  "IceWhaleTech/CasaOS": "2026-06-25T11:39:39.760006+00:00",
-  "opendatalab/MinerU": "2026-06-25T11:39:39.760006+00:00",
-  "NanmiCoder/MediaCrawler": "2026-06-25T11:39:39.760006+00:00",
   "simplex-chat/simplex-chat": "2026-06-26T11:44:26.770367+00:00",
   "commaai/openpilot": "2026-06-26T11:44:26.770367+00:00",
   "grafana/grafana": "2026-06-26T11:44:26.770367+00:00",
@@ -174,5 +167,10 @@
   "yorukot/superfile": "2026-07-24T11:03:06.525221+00:00",
   "mattpocock/skills": "2026-07-24T11:03:06.525221+00:00",
   "Lordog/dive-into-llms": "2026-07-24T11:03:06.525221+00:00",
-  "OtterMind/Chat2DB": "2026-07-24T11:03:06.525221+00:00"
+  "OtterMind/Chat2DB": "2026-07-24T11:03:06.525221+00:00",
+  "obra/superpowers": "2026-07-26T10:43:41.949631+00:00",
+  "permissionlesstech/bitchat": "2026-07-26T10:43:41.949631+00:00",
+  "palmier-io/palmier-pro": "2026-07-26T10:43:41.949631+00:00",
+  "andrewyng/aisuite": "2026-07-26T10:43:41.949631+00:00",
+  "affaan-m/ECC": "2026-07-26T10:43:41.949631+00:00"
 }
