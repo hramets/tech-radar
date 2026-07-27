@@ -1,9 +1,4 @@
 {
-  "simplex-chat/simplex-chat": "2026-06-26T11:44:26.770367+00:00",
-  "commaai/openpilot": "2026-06-26T11:44:26.770367+00:00",
-  "grafana/grafana": "2026-06-26T11:44:26.770367+00:00",
-  "ripienaar/free-for-dev": "2026-06-26T11:44:26.770367+00:00",
-  "alchaincyf/zhangxuefeng-skill": "2026-06-26T11:44:26.770367+00:00",
   "Robbyant/lingbot-map": "2026-06-28T11:06:24.244045+00:00",
   "cupy/cupy": "2026-06-28T11:06:24.244045+00:00",
   "altic-dev/FluidVoice": "2026-06-28T11:06:24.244045+00:00",
@@ -172,5 +167,12 @@
   "permissionlesstech/bitchat": "2026-07-26T10:43:41.949631+00:00",
   "palmier-io/palmier-pro": "2026-07-26T10:43:41.949631+00:00",
   "andrewyng/aisuite": "2026-07-26T10:43:41.949631+00:00",
-  "affaan-m/ECC": "2026-07-26T10:43:41.949631+00:00"
+  "affaan-m/ECC": "2026-07-26T10:43:41.949631+00:00",
+  "amnezia-vpn/amnezia-client": "2026-07-27T12:21:38.996693+00:00",
+  "NanmiCoder/MediaCrawler": "2026-07-27T12:21:38.996693+00:00",
+  "pbakaus/impeccable": "2026-07-27T12:21:38.996693+00:00",
+  "jenkinsci/jenkins": "2026-07-27T12:21:38.996693+00:00",
+  "vudovn/ag-kit": "2026-07-27T12:21:38.996693+00:00",
+  "apache/cassandra": "2026-07-27T12:21:38.996693+00:00",
+  "ocornut/imgui": "2026-07-27T12:21:38.996693+00:00"
 }
