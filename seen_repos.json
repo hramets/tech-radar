@@ -1,11 +1,4 @@
 {
-  "Robbyant/lingbot-map": "2026-06-28T11:06:24.244045+00:00",
-  "cupy/cupy": "2026-06-28T11:06:24.244045+00:00",
-  "altic-dev/FluidVoice": "2026-06-28T11:06:24.244045+00:00",
-  "HKUDS/Vibe-Trading": "2026-06-28T11:06:24.244045+00:00",
-  "ByteByteGoHq/system-design-101": "2026-06-28T11:06:24.244045+00:00",
-  "usestrix/strix": "2026-06-28T11:06:24.244045+00:00",
-  "browser-use/video-use": "2026-06-28T11:06:24.244045+00:00",
   "soxoj/maigret": "2026-06-29T13:05:53.847085+00:00",
   "logto-io/logto": "2026-06-29T13:05:53.847085+00:00",
   "Unclecheng-li/VulnClaw": "2026-06-29T13:05:53.847085+00:00",
@@ -174,5 +167,11 @@
   "jenkinsci/jenkins": "2026-07-27T12:21:38.996693+00:00",
   "vudovn/ag-kit": "2026-07-27T12:21:38.996693+00:00",
   "apache/cassandra": "2026-07-27T12:21:38.996693+00:00",
-  "ocornut/imgui": "2026-07-27T12:21:38.996693+00:00"
+  "ocornut/imgui": "2026-07-27T12:21:38.996693+00:00",
+  "pascalorg/editor": "2026-07-28T11:15:46.180551+00:00",
+  "huggingface/speech-to-speech": "2026-07-28T11:15:46.180551+00:00",
+  "virgiliojr94/book-to-skill": "2026-07-28T11:15:46.180551+00:00",
+  "opengeos/GeoLibre": "2026-07-28T11:15:46.180551+00:00",
+  "paperswithbacktest/awesome-systematic-trading": "2026-07-28T11:15:46.180551+00:00",
+  "microsoft/agent-governance-toolkit": "2026-07-28T11:15:46.180551+00:00"
 }
