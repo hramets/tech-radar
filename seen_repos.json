@@ -167,5 +167,8 @@
   "angular/angular": "2026-08-04T11:22:19.266632+00:00",
   "tailwindlabs/tailwindcss": "2026-08-04T11:22:19.266632+00:00",
   "browser-use/video-use": "2026-08-04T11:22:19.266632+00:00",
-  "EveryInc/compound-engineering-plugin": "2026-08-04T11:22:19.266632+00:00"
+  "EveryInc/compound-engineering-plugin": "2026-08-04T11:22:19.266632+00:00",
+  "huangruiteng/loopx": "2026-08-05T11:19:56.387636+00:00",
+  "addyosmani/agent-skills": "2026-08-05T11:19:56.387636+00:00",
+  "roboflow/supervision": "2026-08-05T11:19:56.387636+00:00"
 }
