@@ -1,11 +1,4 @@
 {
-  "SmartlyDressedGames/U3-SDK": "2026-07-09T11:56:27.242392+00:00",
-  "VoltAgent/awesome-design-md": "2026-07-09T11:56:27.242392+00:00",
-  "anthropics/claude-cookbooks": "2026-07-09T11:56:27.242392+00:00",
-  "vxcontrol/pentagi": "2026-07-09T11:56:27.242392+00:00",
-  "unclecode/crawl4ai": "2026-07-09T11:56:27.242392+00:00",
-  "imthenachoman/How-To-Secure-A-Linux-Server": "2026-07-09T11:56:27.242392+00:00",
-  "huxingyi/autoremesher": "2026-07-09T11:56:27.242392+00:00",
   "oven-sh/bun": "2026-07-10T11:50:46.527772+00:00",
   "abseil/abseil-cpp": "2026-07-10T11:50:46.527772+00:00",
   "jbeder/yaml-cpp": "2026-07-10T11:50:46.527772+00:00",
@@ -166,5 +159,9 @@
   "denoland/celld": "2026-08-08T09:35:38.201326+00:00",
   "K2SOsint/Legendary_OSINT": "2026-08-08T09:35:38.201326+00:00",
   "pranshuparmar/witr": "2026-08-08T09:35:38.201326+00:00",
-  "google/skills": "2026-08-08T09:35:38.201326+00:00"
+  "google/skills": "2026-08-08T09:35:38.201326+00:00",
+  "TauricResearch/TradingAgents": "2026-08-09T09:37:03.327770+00:00",
+  "LadybirdBrowser/ladybird": "2026-08-09T09:37:03.327770+00:00",
+  "litu54/DevOps-Interview-Guide": "2026-08-09T09:37:03.327770+00:00",
+  "bannedbook/fanqiang": "2026-08-09T09:37:03.327770+00:00"
 }
