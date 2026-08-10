@@ -1,17 +1,4 @@
 {
-  "oven-sh/bun": "2026-07-10T11:50:46.527772+00:00",
-  "abseil/abseil-cpp": "2026-07-10T11:50:46.527772+00:00",
-  "jbeder/yaml-cpp": "2026-07-10T11:50:46.527772+00:00",
-  "microsoft/TypeScript": "2026-07-10T11:50:46.527772+00:00",
-  "catchorg/Catch2": "2026-07-10T11:50:46.527772+00:00",
-  "chriskohlhoff/asio": "2026-07-10T11:50:46.527772+00:00",
-  "davila7/claude-code-templates": "2026-07-10T11:50:46.527772+00:00",
-  "zeux/meshoptimizer": "2026-07-10T11:50:46.527772+00:00",
-  "tailscale/tailscale": "2026-07-10T11:50:46.527772+00:00",
-  "google-labs-code/stitch-skills": "2026-07-10T11:50:46.527772+00:00",
-  "hashicorp/terraform": "2026-07-10T11:50:46.527772+00:00",
-  "grpc/grpc": "2026-07-10T11:50:46.527772+00:00",
-  "vercel/next.js": "2026-07-10T11:50:46.527772+00:00",
   "openai/plugins": "2026-07-12T10:26:32.497211+00:00",
   "home-assistant/core": "2026-07-12T10:26:32.497211+00:00",
   "DayuanJiang/next-ai-draw-io": "2026-07-12T10:26:32.497211+00:00",
@@ -163,5 +150,11 @@
   "TauricResearch/TradingAgents": "2026-08-09T09:37:03.327770+00:00",
   "LadybirdBrowser/ladybird": "2026-08-09T09:37:03.327770+00:00",
   "litu54/DevOps-Interview-Guide": "2026-08-09T09:37:03.327770+00:00",
-  "bannedbook/fanqiang": "2026-08-09T09:37:03.327770+00:00"
+  "bannedbook/fanqiang": "2026-08-09T09:37:03.327770+00:00",
+  "vitali87/code-graph-rag": "2026-08-10T10:14:43.593232+00:00",
+  "google-deepmind/weathernext": "2026-08-10T10:14:43.593232+00:00",
+  "ZhuLinsen/daily_stock_analysis": "2026-08-10T10:14:43.593232+00:00",
+  "Comfy-Org/ComfyUI": "2026-08-10T10:14:43.593232+00:00",
+  "harveyai/harvey-labs": "2026-08-10T10:14:43.593232+00:00",
+  "pingdotgg/t3code": "2026-08-10T10:14:43.593232+00:00"
 }
