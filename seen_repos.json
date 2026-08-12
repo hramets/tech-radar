@@ -1,10 +1,4 @@
 {
-  "openai/plugins": "2026-07-12T10:26:32.497211+00:00",
-  "home-assistant/core": "2026-07-12T10:26:32.497211+00:00",
-  "DayuanJiang/next-ai-draw-io": "2026-07-12T10:26:32.497211+00:00",
-  "malisper/pgrust": "2026-07-12T10:26:32.497211+00:00",
-  "nasa/fprime": "2026-07-12T10:26:32.497211+00:00",
-  "nuxt/nuxt": "2026-07-12T10:26:32.497211+00:00",
   "OpenCut-app/OpenCut": "2026-07-13T12:01:45.644411+00:00",
   "Dicklesworthstone/destructive_command_guard": "2026-07-13T12:01:45.644411+00:00",
   "moeru-ai/airi": "2026-07-13T12:01:45.644411+00:00",
@@ -161,5 +155,14 @@
   "ruvnet/RuView": "2026-08-11T09:58:48.579641+00:00",
   "danielmiessler/LifeOS": "2026-08-11T09:58:48.579641+00:00",
   "firecrawl/firecrawl": "2026-08-11T09:58:48.579641+00:00",
-  "opa334/Dopamine": "2026-08-11T09:58:48.579641+00:00"
+  "opa334/Dopamine": "2026-08-11T09:58:48.579641+00:00",
+  "cathrynlavery/diagram-design": "2026-08-12T10:01:47.037089+00:00",
+  "nvm-sh/nvm": "2026-08-12T10:01:47.037089+00:00",
+  "anthropics/skills": "2026-08-12T10:01:47.037089+00:00",
+  "3b1b/manim": "2026-08-12T10:01:47.037089+00:00",
+  "stablyai/orca": "2026-08-12T10:01:47.037089+00:00",
+  "huggingface/transformers": "2026-08-12T10:01:47.037089+00:00",
+  "jaywcjlove/awesome-mac": "2026-08-12T10:01:47.037089+00:00",
+  "calesthio/OpenMontage": "2026-08-12T10:01:47.037089+00:00",
+  "practical-tutorials/project-based-learning": "2026-08-12T10:01:47.037089+00:00"
 }
