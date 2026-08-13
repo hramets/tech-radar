@@ -1,12 +1,4 @@
 {
-  "OpenCut-app/OpenCut": "2026-07-13T12:01:45.644411+00:00",
-  "Dicklesworthstone/destructive_command_guard": "2026-07-13T12:01:45.644411+00:00",
-  "moeru-ai/airi": "2026-07-13T12:01:45.644411+00:00",
-  "Shubhamsaboo/awesome-llm-apps": "2026-07-13T12:01:45.644411+00:00",
-  "Nutlope/hallmark": "2026-07-13T12:01:45.644411+00:00",
-  "Graphify-Labs/graphify": "2026-07-13T12:01:45.644411+00:00",
-  "github/spec-kit": "2026-07-13T12:01:45.644411+00:00",
-  "coreyhaines31/marketingskills": "2026-07-13T12:01:45.644411+00:00",
   "1c7/chinese-independent-developer": "2026-07-15T10:48:27.000846+00:00",
   "virattt/ai-hedge-fund": "2026-07-15T10:48:27.000846+00:00",
   "AIEraDev/Clypra": "2026-07-15T10:48:27.000846+00:00",
@@ -164,5 +156,15 @@
   "huggingface/transformers": "2026-08-12T10:01:47.037089+00:00",
   "jaywcjlove/awesome-mac": "2026-08-12T10:01:47.037089+00:00",
   "calesthio/OpenMontage": "2026-08-12T10:01:47.037089+00:00",
-  "practical-tutorials/project-based-learning": "2026-08-12T10:01:47.037089+00:00"
+  "practical-tutorials/project-based-learning": "2026-08-12T10:01:47.037089+00:00",
+  "macro-inc/macro": "2026-08-13T10:03:05.870712+00:00",
+  "hugohe3/ppt-master": "2026-08-13T10:03:05.870712+00:00",
+  "infiniflow/ragflow": "2026-08-13T10:03:05.870712+00:00",
+  "NVIDIA-NeMo/Switchyard": "2026-08-13T10:03:05.870712+00:00",
+  "ZuodaoTech/everyone-can-use-english": "2026-08-13T10:03:05.870712+00:00",
+  "smicallef/spiderfoot": "2026-08-13T10:03:05.870712+00:00",
+  "localsend/localsend": "2026-08-13T10:03:05.870712+00:00",
+  "Lightricks/LTX-2": "2026-08-13T10:03:05.870712+00:00",
+  "embabel/embabel-agent": "2026-08-13T10:03:05.870712+00:00",
+  "cactus-compute/needle": "2026-08-13T10:03:05.870712+00:00"
 }
