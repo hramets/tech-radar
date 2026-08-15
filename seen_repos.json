@@ -1,10 +1,4 @@
 {
-  "1c7/chinese-independent-developer": "2026-07-15T10:48:27.000846+00:00",
-  "virattt/ai-hedge-fund": "2026-07-15T10:48:27.000846+00:00",
-  "AIEraDev/Clypra": "2026-07-15T10:48:27.000846+00:00",
-  "par274/sharpemu": "2026-07-15T10:48:27.000846+00:00",
-  "chenyme/grok2api": "2026-07-15T10:48:27.000846+00:00",
-  "HenryNdubuaku/maths-cs-ai-compendium": "2026-07-15T10:48:27.000846+00:00",
   "apache/ossie": "2026-07-16T10:58:34.823588+00:00",
   "PostHog/posthog": "2026-07-16T10:58:34.823588+00:00",
   "openinterpreter/openinterpreter": "2026-07-16T10:58:34.823588+00:00",
@@ -172,5 +166,11 @@
   "megadose/holehe": "2026-08-14T09:59:09.207471+00:00",
   "holaboss-ai/holaOS": "2026-08-14T09:59:09.207471+00:00",
   "kepano/obsidian-skills": "2026-08-14T09:59:09.207471+00:00",
-  "lightningpixel/modly": "2026-08-14T09:59:09.207471+00:00"
+  "lightningpixel/modly": "2026-08-14T09:59:09.207471+00:00",
+  "github/spec-kit": "2026-08-15T09:23:54.056966+00:00",
+  "cursor/plugins": "2026-08-15T09:23:54.056966+00:00",
+  "deepseek-ai/awesome-deepseek-agent": "2026-08-15T09:23:54.056966+00:00",
+  "rustdesk/rustdesk": "2026-08-15T09:23:54.056966+00:00",
+  "OpenCut-app/OpenCut": "2026-08-15T09:23:54.056966+00:00",
+  "ToolJet/ToolJet": "2026-08-15T09:23:54.056966+00:00"
 }
