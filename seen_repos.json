@@ -1,9 +1,4 @@
 {
-  "anthropics/cwc-workshops": "2026-07-18T10:17:29.989017+00:00",
-  "protocolbuffers/protobuf": "2026-07-18T10:17:29.989017+00:00",
-  "tirth8205/code-review-graph": "2026-07-18T10:17:29.989017+00:00",
-  "docusealco/docuseal": "2026-07-18T10:17:29.989017+00:00",
-  "RyanCodrai/turbovec": "2026-07-18T10:17:29.989017+00:00",
   "rohitg00/ai-engineering-from-scratch": "2026-07-19T10:26:35.104881+00:00",
   "elder-plinius/G0DM0D3": "2026-07-19T10:26:35.104881+00:00",
   "KnockOutEZ/wigolo": "2026-07-19T10:26:35.104881+00:00",
@@ -166,5 +161,15 @@
   "public-apis/public-apis": "2026-08-16T09:25:22.606342+00:00",
   "MakazhanAlpamys/Soup": "2026-08-16T09:25:22.606342+00:00",
   "HKUDS/CLI-Anything": "2026-08-16T09:25:22.606342+00:00",
-  "basecamp/omarchy": "2026-08-17T09:38:50.233740+00:00"
+  "basecamp/omarchy": "2026-08-17T09:38:50.233740+00:00",
+  "harry0703/MoneyPrinterTurbo": "2026-08-18T09:31:04.963419+00:00",
+  "usestrix/strix": "2026-08-18T09:31:04.963419+00:00",
+  "nautechsystems/nautilus_trader": "2026-08-18T09:31:04.963419+00:00",
+  "akitaonrails/ai-memory": "2026-08-18T09:31:04.963419+00:00",
+  "mukul975/Anthropic-Cybersecurity-Skills": "2026-08-18T09:31:04.963419+00:00",
+  "AlexsJones/llmfit": "2026-08-18T09:31:04.963419+00:00",
+  "santifer/career-ops": "2026-08-18T09:31:04.963419+00:00",
+  "jundot/omlx": "2026-08-18T09:31:04.963419+00:00",
+  "immich-app/immich": "2026-08-18T09:31:04.963419+00:00",
+  "agalwood/Motrix": "2026-08-18T09:31:04.963419+00:00"
 }
