@@ -1,17 +1,4 @@
 {
-  "1jehuang/jcode": "2026-07-20T11:43:55.580599+00:00",
-  "msitarzewski/agency-agents": "2026-07-20T11:43:55.580599+00:00",
-  "kvcache-ai/ktransformers": "2026-07-20T11:43:55.580599+00:00",
-  "jamiepine/voicebox": "2026-07-20T11:43:55.580599+00:00",
-  "every-app/open-seo": "2026-07-20T11:43:55.580599+00:00",
-  "AstrBotDevs/AstrBot": "2026-07-20T11:43:55.580599+00:00",
-  "PrefectHQ/fastmcp": "2026-07-20T11:43:55.580599+00:00",
-  "tokio-rs/topcoat": "2026-07-20T11:43:55.580599+00:00",
-  "iptv-org/iptv": "2026-07-20T11:43:55.580599+00:00",
-  "oblien/openship": "2026-07-20T11:43:55.580599+00:00",
-  "microsoft/Ontology-Playground": "2026-07-20T11:43:55.580599+00:00",
-  "handy-computer/transcribe.cpp": "2026-07-20T11:43:55.580599+00:00",
-  "moonshine-ai/moonshine": "2026-07-20T11:43:55.580599+00:00",
   "bojieli/ai-agent-book": "2026-07-21T11:06:17.225660+00:00",
   "koala73/worldmonitor": "2026-07-22T11:08:22.959886+00:00",
   "ayghri/i-have-adhd": "2026-07-22T11:08:22.959886+00:00",
@@ -171,5 +158,7 @@
   "chaitanyagiri/munder-difflin": "2026-08-19T09:31:46.050429+00:00",
   "volcengine/OpenViking": "2026-08-19T09:31:46.050429+00:00",
   "NawfalMotii79/PLFM_RADAR": "2026-08-19T09:31:46.050429+00:00",
-  "genlayerlabs/genlayer-project-boilerplate": "2026-08-19T09:31:46.050429+00:00"
+  "genlayerlabs/genlayer-project-boilerplate": "2026-08-19T09:31:46.050429+00:00",
+  "amadeusprotocol/node": "2026-08-20T09:32:11.241829+00:00",
+  "marceloprates/prettymaps": "2026-08-20T09:32:11.241829+00:00"
 }
