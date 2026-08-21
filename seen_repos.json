@@ -1,5 +1,4 @@
 {
-  "bojieli/ai-agent-book": "2026-07-21T11:06:17.225660+00:00",
   "koala73/worldmonitor": "2026-07-22T11:08:22.959886+00:00",
   "ayghri/i-have-adhd": "2026-07-22T11:08:22.959886+00:00",
   "schollz/croc": "2026-07-22T11:08:22.959886+00:00",
@@ -160,5 +159,14 @@
   "NawfalMotii79/PLFM_RADAR": "2026-08-19T09:31:46.050429+00:00",
   "genlayerlabs/genlayer-project-boilerplate": "2026-08-19T09:31:46.050429+00:00",
   "amadeusprotocol/node": "2026-08-20T09:32:11.241829+00:00",
-  "marceloprates/prettymaps": "2026-08-20T09:32:11.241829+00:00"
+  "marceloprates/prettymaps": "2026-08-20T09:32:11.241829+00:00",
+  "modular/modular": "2026-08-21T09:34:18.124974+00:00",
+  "AprilNEA/OpenLogi": "2026-08-21T09:34:18.124974+00:00",
+  "agent-substrate/substrate": "2026-08-21T09:34:18.124974+00:00",
+  "PostHog/posthog": "2026-08-21T09:34:18.124974+00:00",
+  "mahlernim/google-timeline-visualizer": "2026-08-21T09:34:18.124974+00:00",
+  "JuliusBrussee/caveman": "2026-08-21T09:34:18.124974+00:00",
+  "makeplane/plane": "2026-08-21T09:34:18.124974+00:00",
+  "Tencent/AI-Infra-Guard": "2026-08-21T09:34:18.124974+00:00",
+  "RyanCodrai/turbovec": "2026-08-21T09:34:18.124974+00:00"
 }
