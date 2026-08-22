@@ -1,17 +1,4 @@
 {
-  "koala73/worldmonitor": "2026-07-22T11:08:22.959886+00:00",
-  "ayghri/i-have-adhd": "2026-07-22T11:08:22.959886+00:00",
-  "schollz/croc": "2026-07-22T11:08:22.959886+00:00",
-  "likec4/likec4": "2026-07-22T11:08:22.959886+00:00",
-  "chrislgarry/Apollo-11": "2026-07-22T11:08:22.959886+00:00",
-  "shiyu-coder/Kronos": "2026-07-22T11:08:22.959886+00:00",
-  "ComposioHQ/awesome-claude-skills": "2026-07-22T11:08:22.959886+00:00",
-  "agegr/pi-web": "2026-07-22T11:08:22.959886+00:00",
-  "dreamhunter2333/cloudflare_temp_email": "2026-07-22T11:08:22.959886+00:00",
-  "DioxusLabs/dioxus": "2026-07-22T11:08:22.959886+00:00",
-  "hyprwm/Hyprland": "2026-07-22T11:08:22.959886+00:00",
-  "Pumpkin-MC/Pumpkin": "2026-07-22T11:08:22.959886+00:00",
-  "dottxt-ai/outlines": "2026-07-22T11:08:22.959886+00:00",
   "block/buzz": "2026-07-23T11:08:02.268326+00:00",
   "citrolabs/ego-lite": "2026-07-23T11:08:02.268326+00:00",
   "earthtojake/text-to-cad": "2026-07-23T11:08:02.268326+00:00",
@@ -168,5 +155,12 @@
   "JuliusBrussee/caveman": "2026-08-21T09:34:18.124974+00:00",
   "makeplane/plane": "2026-08-21T09:34:18.124974+00:00",
   "Tencent/AI-Infra-Guard": "2026-08-21T09:34:18.124974+00:00",
-  "RyanCodrai/turbovec": "2026-08-21T09:34:18.124974+00:00"
+  "RyanCodrai/turbovec": "2026-08-21T09:34:18.124974+00:00",
+  "microsoft/TypeScript": "2026-08-22T09:24:26.231320+00:00",
+  "TryGhost/Ghost": "2026-08-22T09:24:26.231320+00:00",
+  "ruvnet/ruflo": "2026-08-22T09:24:26.231320+00:00",
+  "apache/maka": "2026-08-22T09:24:26.231320+00:00",
+  "protocolbuffers/protobuf": "2026-08-22T09:24:26.231320+00:00",
+  "elder-plinius/OBLITERATUS": "2026-08-22T09:24:26.231320+00:00",
+  "microsoft/onnxruntime": "2026-08-22T09:24:26.231320+00:00"
 }
