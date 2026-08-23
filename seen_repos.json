@@ -1,10 +1,4 @@
 {
-  "block/buzz": "2026-07-23T11:08:02.268326+00:00",
-  "citrolabs/ego-lite": "2026-07-23T11:08:02.268326+00:00",
-  "earthtojake/text-to-cad": "2026-07-23T11:08:02.268326+00:00",
-  "alibaba/open-code-review": "2026-07-23T11:08:02.268326+00:00",
-  "Automattic/harper": "2026-07-23T11:08:02.268326+00:00",
-  "jellyfin/jellyfin": "2026-07-23T11:08:02.268326+00:00",
   "yorukot/superfile": "2026-07-24T11:03:06.525221+00:00",
   "mattpocock/skills": "2026-07-24T11:03:06.525221+00:00",
   "Lordog/dive-into-llms": "2026-07-24T11:03:06.525221+00:00",
@@ -162,5 +156,11 @@
   "apache/maka": "2026-08-22T09:24:26.231320+00:00",
   "protocolbuffers/protobuf": "2026-08-22T09:24:26.231320+00:00",
   "elder-plinius/OBLITERATUS": "2026-08-22T09:24:26.231320+00:00",
-  "microsoft/onnxruntime": "2026-08-22T09:24:26.231320+00:00"
+  "microsoft/onnxruntime": "2026-08-22T09:24:26.231320+00:00",
+  "openai/codex": "2026-08-23T09:25:28.553834+00:00",
+  "Wei-Shaw/sub2api": "2026-08-23T09:25:28.553834+00:00",
+  "n8n-io/n8n": "2026-08-23T09:25:28.553834+00:00",
+  "anthropics/claude-code": "2026-08-23T09:25:28.553834+00:00",
+  "multica-ai/andrej-karpathy-skills": "2026-08-23T09:25:28.553834+00:00",
+  "ripienaar/free-for-dev": "2026-08-23T09:25:28.553834+00:00"
 }
