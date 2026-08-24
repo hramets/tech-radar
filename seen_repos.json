@@ -1,8 +1,4 @@
 {
-  "yorukot/superfile": "2026-07-24T11:03:06.525221+00:00",
-  "mattpocock/skills": "2026-07-24T11:03:06.525221+00:00",
-  "Lordog/dive-into-llms": "2026-07-24T11:03:06.525221+00:00",
-  "OtterMind/Chat2DB": "2026-07-24T11:03:06.525221+00:00",
   "obra/superpowers": "2026-07-26T10:43:41.949631+00:00",
   "permissionlesstech/bitchat": "2026-07-26T10:43:41.949631+00:00",
   "palmier-io/palmier-pro": "2026-07-26T10:43:41.949631+00:00",
@@ -162,5 +158,13 @@
   "n8n-io/n8n": "2026-08-23T09:25:28.553834+00:00",
   "anthropics/claude-code": "2026-08-23T09:25:28.553834+00:00",
   "multica-ai/andrej-karpathy-skills": "2026-08-23T09:25:28.553834+00:00",
-  "ripienaar/free-for-dev": "2026-08-23T09:25:28.553834+00:00"
+  "ripienaar/free-for-dev": "2026-08-23T09:25:28.553834+00:00",
+  "freestylefly/awesome-gpt-image-2": "2026-08-24T09:44:49.320342+00:00",
+  "mattpocock/skills": "2026-08-24T09:44:49.320342+00:00",
+  "block/buzz": "2026-08-24T09:44:49.320342+00:00",
+  "tinyhumansai/openhuman": "2026-08-24T09:44:49.320342+00:00",
+  "VoltAgent/awesome-agent-skills": "2026-08-24T09:44:49.320342+00:00",
+  "dani-garcia/vaultwarden": "2026-08-24T09:44:49.320342+00:00",
+  "anthropics/claude-plugins-community": "2026-08-24T09:44:49.320342+00:00",
+  "NousResearch/hermes-agent": "2026-08-24T09:44:49.320342+00:00"
 }
