@@ -1,9 +1,4 @@
 {
-  "obra/superpowers": "2026-07-26T10:43:41.949631+00:00",
-  "permissionlesstech/bitchat": "2026-07-26T10:43:41.949631+00:00",
-  "palmier-io/palmier-pro": "2026-07-26T10:43:41.949631+00:00",
-  "andrewyng/aisuite": "2026-07-26T10:43:41.949631+00:00",
-  "affaan-m/ECC": "2026-07-26T10:43:41.949631+00:00",
   "amnezia-vpn/amnezia-client": "2026-07-27T12:21:38.996693+00:00",
   "NanmiCoder/MediaCrawler": "2026-07-27T12:21:38.996693+00:00",
   "pbakaus/impeccable": "2026-07-27T12:21:38.996693+00:00",
@@ -171,5 +166,10 @@
   "openclaw/openclaw": "2026-08-25T09:33:08.917444+00:00",
   "AgriciDaniel/claude-obsidian": "2026-08-25T09:33:08.917444+00:00",
   "rohitg00/ai-engineering-from-scratch": "2026-08-25T09:33:08.917444+00:00",
-  "tashfeenahmed/freellmapi": "2026-08-25T09:33:08.917444+00:00"
+  "tashfeenahmed/freellmapi": "2026-08-25T09:33:08.917444+00:00",
+  "Shubhamsaboo/awesome-llm-apps": "2026-08-26T09:38:34.334489+00:00",
+  "marin-community/marin": "2026-08-26T09:38:34.334489+00:00",
+  "DietrichGebert/ponytail": "2026-08-26T09:38:34.334489+00:00",
+  "anthropics/claude-plugins-official": "2026-08-26T09:38:34.334489+00:00",
+  "asciimoo/hister": "2026-08-26T09:38:34.334489+00:00"
 }
