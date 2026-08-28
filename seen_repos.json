@@ -1,10 +1,4 @@
 {
-  "grokability/snipe-it": "2026-07-29T11:25:19.305089+00:00",
-  "deepfakes/faceswap": "2026-07-29T11:25:19.305089+00:00",
-  "microsoft/VibeVoice": "2026-07-29T11:25:19.305089+00:00",
-  "different-ai/openwork": "2026-07-29T11:25:19.305089+00:00",
-  "MoonshotAI/FlashKDA": "2026-07-29T11:25:19.305089+00:00",
-  "maderix/ANE": "2026-07-29T11:25:19.305089+00:00",
   "zhaoxuya520/reverse-skill": "2026-07-31T11:28:29.213060+00:00",
   "microsoft/AI-For-Beginners": "2026-07-31T11:28:29.213060+00:00",
   "chatwoot/chatwoot": "2026-07-31T11:28:29.213060+00:00",
@@ -167,5 +161,12 @@
   "thedotmack/claude-mem": "2026-08-27T19:26:07.196250+00:00",
   "google/googletest": "2026-08-27T19:26:07.196250+00:00",
   "ComposioHQ/awesome-claude-skills": "2026-08-27T19:26:07.196250+00:00",
-  "actions/checkout": "2026-08-27T19:26:07.196250+00:00"
+  "actions/checkout": "2026-08-27T19:26:07.196250+00:00",
+  "bilawalsidhu/gods-eye-view": "2026-08-28T20:42:09.789141+00:00",
+  "abhigyanpatwari/GitNexus": "2026-08-28T20:42:09.789141+00:00",
+  "abi/screenshot-to-code": "2026-08-28T20:42:09.789141+00:00",
+  "tailscale/tailcat": "2026-08-28T20:42:09.789141+00:00",
+  "NationalSecurityAgency/ghidra": "2026-08-28T20:42:09.789141+00:00",
+  "swoole/typephp": "2026-08-28T20:42:09.789141+00:00",
+  "ChromeDevTools/chrome-devtools-mcp": "2026-08-28T20:42:09.789141+00:00"
 }
