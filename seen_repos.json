@@ -1,10 +1,4 @@
 {
-  "zhaoxuya520/reverse-skill": "2026-07-31T11:28:29.213060+00:00",
-  "microsoft/AI-For-Beginners": "2026-07-31T11:28:29.213060+00:00",
-  "chatwoot/chatwoot": "2026-07-31T11:28:29.213060+00:00",
-  "agavra/tuicr": "2026-07-31T11:28:29.213060+00:00",
-  "usekaneo/kaneo": "2026-07-31T11:28:29.213060+00:00",
-  "geo-tp/ESP32-Bit-Pirate": "2026-07-31T11:28:29.213060+00:00",
   "microsoft/generative-ai-for-beginners": "2026-08-02T10:39:33.769150+00:00",
   "github/gh-stack": "2026-08-02T10:39:33.769150+00:00",
   "abus-aikorea/voice-pro": "2026-08-02T10:39:33.769150+00:00",
@@ -168,5 +162,18 @@
   "tailscale/tailcat": "2026-08-28T20:42:09.789141+00:00",
   "NationalSecurityAgency/ghidra": "2026-08-28T20:42:09.789141+00:00",
   "swoole/typephp": "2026-08-28T20:42:09.789141+00:00",
-  "ChromeDevTools/chrome-devtools-mcp": "2026-08-28T20:42:09.789141+00:00"
+  "ChromeDevTools/chrome-devtools-mcp": "2026-08-28T20:42:09.789141+00:00",
+  "THU-MAIC/OpenMAIC": "2026-08-30T14:16:35.345953+00:00",
+  "Lakr233/vphone-cli": "2026-08-30T14:16:35.345953+00:00",
+  "p-e-w/heretic": "2026-08-30T14:16:35.345953+00:00",
+  "unclecode/crawl4ai": "2026-08-30T14:16:35.345953+00:00",
+  "mvanhorn/last30days-skill": "2026-08-30T14:16:35.345953+00:00",
+  "majd/ipatool": "2026-08-30T14:16:35.345953+00:00",
+  "punkpeye/awesome-mcp-servers": "2026-08-30T14:16:35.345953+00:00",
+  "checkstyle/checkstyle": "2026-08-30T14:16:35.345953+00:00",
+  "pollen-robotics/microduck_rl": "2026-08-30T14:16:35.345953+00:00",
+  "handsomestWei/patent-disclosure-skill": "2026-08-30T14:16:35.345953+00:00",
+  "corsairdev/corsair": "2026-08-30T14:16:35.345953+00:00",
+  "every-app/open-seo": "2026-08-30T14:16:35.345953+00:00",
+  "colinhacks/zod": "2026-08-30T14:16:35.345953+00:00"
 }
