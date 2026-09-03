@@ -1,13 +1,4 @@
 {
-  "uber/ADR": "2026-08-04T11:22:19.266632+00:00",
-  "cypress-io/cypress": "2026-08-04T11:22:19.266632+00:00",
-  "webpack/webpack": "2026-08-04T11:22:19.266632+00:00",
-  "gabime/spdlog": "2026-08-04T11:22:19.266632+00:00",
-  "denoland/deno": "2026-08-04T11:22:19.266632+00:00",
-  "angular/angular": "2026-08-04T11:22:19.266632+00:00",
-  "tailwindlabs/tailwindcss": "2026-08-04T11:22:19.266632+00:00",
-  "browser-use/video-use": "2026-08-04T11:22:19.266632+00:00",
-  "EveryInc/compound-engineering-plugin": "2026-08-04T11:22:19.266632+00:00",
   "huangruiteng/loopx": "2026-08-05T11:19:56.387636+00:00",
   "addyosmani/agent-skills": "2026-08-05T11:19:56.387636+00:00",
   "roboflow/supervision": "2026-08-05T11:19:56.387636+00:00",
@@ -181,5 +172,9 @@
   "zyronon/TypeWords": "2026-09-02T13:14:20.742689+00:00",
   "vercel-labs/portless": "2026-09-02T13:14:20.742689+00:00",
   "blader/humanizer": "2026-09-02T13:14:20.742689+00:00",
-  "firecrawl/pdf-inspector": "2026-09-02T13:14:20.742689+00:00"
+  "firecrawl/pdf-inspector": "2026-09-02T13:14:20.742689+00:00",
+  "ByteByteGoHq/system-design-101": "2026-09-03T13:15:02.123917+00:00",
+  "magnitudedev/magnitude": "2026-09-03T13:15:02.123917+00:00",
+  "f/prompts.chat": "2026-09-03T13:15:02.123917+00:00",
+  "obra/superpowers": "2026-09-03T13:15:02.123917+00:00"
 }
