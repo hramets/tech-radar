@@ -1,7 +1,4 @@
 {
-  "huangruiteng/loopx": "2026-08-05T11:19:56.387636+00:00",
-  "addyosmani/agent-skills": "2026-08-05T11:19:56.387636+00:00",
-  "roboflow/supervision": "2026-08-05T11:19:56.387636+00:00",
   "cloudflare/computer": "2026-08-06T11:21:54.021353+00:00",
   "goauthentik/authentik": "2026-08-06T11:21:54.021353+00:00",
   "google/guava": "2026-08-06T11:21:54.021353+00:00",
@@ -176,5 +173,9 @@
   "ByteByteGoHq/system-design-101": "2026-09-03T13:15:02.123917+00:00",
   "magnitudedev/magnitude": "2026-09-03T13:15:02.123917+00:00",
   "f/prompts.chat": "2026-09-03T13:15:02.123917+00:00",
-  "obra/superpowers": "2026-09-03T13:15:02.123917+00:00"
+  "obra/superpowers": "2026-09-03T13:15:02.123917+00:00",
+  "bikini/exploitarium": "2026-09-04T13:09:21.762143+00:00",
+  "radixark/miles": "2026-09-04T13:09:21.762143+00:00",
+  "anomalyco/opencode": "2026-09-04T13:09:21.762143+00:00",
+  "clshortfuse/renodx": "2026-09-04T13:09:21.762143+00:00"
 }
