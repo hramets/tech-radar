@@ -1,9 +1,4 @@
 {
-  "cloudflare/computer": "2026-08-06T11:21:54.021353+00:00",
-  "goauthentik/authentik": "2026-08-06T11:21:54.021353+00:00",
-  "google/guava": "2026-08-06T11:21:54.021353+00:00",
-  "TapXWorld/ChinaTextbook": "2026-08-06T11:21:54.021353+00:00",
-  "Significant-Gravitas/AutoGPT": "2026-08-06T11:21:54.021353+00:00",
   "PrimeIntellect-ai/prime-agent": "2026-08-08T09:35:38.201326+00:00",
   "semantica-agi/semantica": "2026-08-08T09:35:38.201326+00:00",
   "666ghj/MiroFish": "2026-08-08T09:35:38.201326+00:00",
@@ -177,5 +172,8 @@
   "bikini/exploitarium": "2026-09-04T13:09:21.762143+00:00",
   "radixark/miles": "2026-09-04T13:09:21.762143+00:00",
   "anomalyco/opencode": "2026-09-04T13:09:21.762143+00:00",
-  "clshortfuse/renodx": "2026-09-04T13:09:21.762143+00:00"
+  "clshortfuse/renodx": "2026-09-04T13:09:21.762143+00:00",
+  "humanlayer/skills": "2026-09-05T12:22:20.931297+00:00",
+  "BraveOPotato/FckSignups": "2026-09-05T12:22:20.931297+00:00",
+  "WorldFlowAI/everything-claude-code": "2026-09-05T12:22:20.931297+00:00"
 }
