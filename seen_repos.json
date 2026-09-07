@@ -1,13 +1,4 @@
 {
-  "PrimeIntellect-ai/prime-agent": "2026-08-08T09:35:38.201326+00:00",
-  "semantica-agi/semantica": "2026-08-08T09:35:38.201326+00:00",
-  "666ghj/MiroFish": "2026-08-08T09:35:38.201326+00:00",
-  "jdx/mise": "2026-08-08T09:35:38.201326+00:00",
-  "unclebob/swarm-forge": "2026-08-08T09:35:38.201326+00:00",
-  "denoland/celld": "2026-08-08T09:35:38.201326+00:00",
-  "K2SOsint/Legendary_OSINT": "2026-08-08T09:35:38.201326+00:00",
-  "pranshuparmar/witr": "2026-08-08T09:35:38.201326+00:00",
-  "google/skills": "2026-08-08T09:35:38.201326+00:00",
   "TauricResearch/TradingAgents": "2026-08-09T09:37:03.327770+00:00",
   "LadybirdBrowser/ladybird": "2026-08-09T09:37:03.327770+00:00",
   "litu54/DevOps-Interview-Guide": "2026-08-09T09:37:03.327770+00:00",
@@ -175,5 +166,16 @@
   "clshortfuse/renodx": "2026-09-04T13:09:21.762143+00:00",
   "humanlayer/skills": "2026-09-05T12:22:20.931297+00:00",
   "BraveOPotato/FckSignups": "2026-09-05T12:22:20.931297+00:00",
-  "WorldFlowAI/everything-claude-code": "2026-09-05T12:22:20.931297+00:00"
+  "WorldFlowAI/everything-claude-code": "2026-09-05T12:22:20.931297+00:00",
+  "heygen-com/hyperframes": "2026-09-07T14:47:28.975889+00:00",
+  "microsoft/markitdown": "2026-09-07T14:47:28.975889+00:00",
+  "mksglu/context-mode": "2026-09-07T14:47:28.975889+00:00",
+  "jo-inc/camofox-browser": "2026-09-07T14:47:28.975889+00:00",
+  "MoonTechLab/LunaTV": "2026-09-07T14:47:28.975889+00:00",
+  "coreyhaines31/marketingskills": "2026-09-07T14:47:28.975889+00:00",
+  "The-Swarm-Corporation/AutoHedge": "2026-09-07T14:47:28.975889+00:00",
+  "bytedance/deer-flow": "2026-09-07T14:47:28.975889+00:00",
+  "openai/skills": "2026-09-07T14:47:28.975889+00:00",
+  "lightpanda-io/browser": "2026-09-07T14:47:28.975889+00:00",
+  "pascalorg/editor": "2026-09-07T14:47:28.975889+00:00"
 }
