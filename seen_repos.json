@@ -1,8 +1,4 @@
 {
-  "TauricResearch/TradingAgents": "2026-08-09T09:37:03.327770+00:00",
-  "LadybirdBrowser/ladybird": "2026-08-09T09:37:03.327770+00:00",
-  "litu54/DevOps-Interview-Guide": "2026-08-09T09:37:03.327770+00:00",
-  "bannedbook/fanqiang": "2026-08-09T09:37:03.327770+00:00",
   "vitali87/code-graph-rag": "2026-08-10T10:14:43.593232+00:00",
   "google-deepmind/weathernext": "2026-08-10T10:14:43.593232+00:00",
   "ZhuLinsen/daily_stock_analysis": "2026-08-10T10:14:43.593232+00:00",
@@ -177,5 +173,9 @@
   "bytedance/deer-flow": "2026-09-07T14:47:28.975889+00:00",
   "openai/skills": "2026-09-07T14:47:28.975889+00:00",
   "lightpanda-io/browser": "2026-09-07T14:47:28.975889+00:00",
-  "pascalorg/editor": "2026-09-07T14:47:28.975889+00:00"
+  "pascalorg/editor": "2026-09-07T14:47:28.975889+00:00",
+  "ayghri/i-have-adhd": "2026-09-08T13:19:48.621610+00:00",
+  "browser-use/browser-use": "2026-09-08T13:19:48.621610+00:00",
+  "viarotel-org/escrcpy": "2026-09-08T13:19:48.621610+00:00",
+  "openai/plugins": "2026-09-08T13:19:48.621610+00:00"
 }
