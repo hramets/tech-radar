@@ -1,10 +1,4 @@
 {
-  "vitali87/code-graph-rag": "2026-08-10T10:14:43.593232+00:00",
-  "google-deepmind/weathernext": "2026-08-10T10:14:43.593232+00:00",
-  "ZhuLinsen/daily_stock_analysis": "2026-08-10T10:14:43.593232+00:00",
-  "Comfy-Org/ComfyUI": "2026-08-10T10:14:43.593232+00:00",
-  "harveyai/harvey-labs": "2026-08-10T10:14:43.593232+00:00",
-  "pingdotgg/t3code": "2026-08-10T10:14:43.593232+00:00",
   "paperclipai/paperclip": "2026-08-11T09:58:48.579641+00:00",
   "ruvnet/RuView": "2026-08-11T09:58:48.579641+00:00",
   "danielmiessler/LifeOS": "2026-08-11T09:58:48.579641+00:00",
@@ -177,5 +171,10 @@
   "ayghri/i-have-adhd": "2026-09-08T13:19:48.621610+00:00",
   "browser-use/browser-use": "2026-09-08T13:19:48.621610+00:00",
   "viarotel-org/escrcpy": "2026-09-08T13:19:48.621610+00:00",
-  "openai/plugins": "2026-09-08T13:19:48.621610+00:00"
+  "openai/plugins": "2026-09-08T13:19:48.621610+00:00",
+  "Tencent/teamai-cli": "2026-09-09T13:24:22.093065+00:00",
+  "earthtojake/text-to-cad": "2026-09-09T13:24:22.093065+00:00",
+  "TauricResearch/TradingAgents": "2026-09-09T13:24:22.093065+00:00",
+  "liquidslr/system-design-notes": "2026-09-09T13:24:22.093065+00:00",
+  "vastsa/PI-Desktop": "2026-09-09T13:24:22.093065+00:00"
 }
