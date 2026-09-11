@@ -1,13 +1,4 @@
 {
-  "cathrynlavery/diagram-design": "2026-08-12T10:01:47.037089+00:00",
-  "nvm-sh/nvm": "2026-08-12T10:01:47.037089+00:00",
-  "anthropics/skills": "2026-08-12T10:01:47.037089+00:00",
-  "3b1b/manim": "2026-08-12T10:01:47.037089+00:00",
-  "stablyai/orca": "2026-08-12T10:01:47.037089+00:00",
-  "huggingface/transformers": "2026-08-12T10:01:47.037089+00:00",
-  "jaywcjlove/awesome-mac": "2026-08-12T10:01:47.037089+00:00",
-  "calesthio/OpenMontage": "2026-08-12T10:01:47.037089+00:00",
-  "practical-tutorials/project-based-learning": "2026-08-12T10:01:47.037089+00:00",
   "macro-inc/macro": "2026-08-13T10:03:05.870712+00:00",
   "hugohe3/ppt-master": "2026-08-13T10:03:05.870712+00:00",
   "infiniflow/ragflow": "2026-08-13T10:03:05.870712+00:00",
@@ -177,5 +168,12 @@
   "diegosouzapw/OmniRoute": "2026-09-10T13:19:21.042178+00:00",
   "JustVugg/colibri": "2026-09-10T13:19:21.042178+00:00",
   "nashsu/llm_wiki": "2026-09-10T13:19:21.042178+00:00",
-  "vercel-labs/skills": "2026-09-10T13:19:21.042178+00:00"
+  "vercel-labs/skills": "2026-09-10T13:19:21.042178+00:00",
+  "nab138/iloader": "2026-09-11T13:14:28.861334+00:00",
+  "melgarafael/DeskcommCRM": "2026-09-11T13:14:28.861334+00:00",
+  "Sonarr/Sonarr": "2026-09-11T13:14:28.861334+00:00",
+  "jihe520/MathModelAgent": "2026-09-11T13:14:28.861334+00:00",
+  "p1neappleXpress/OpenFlux": "2026-09-11T13:14:28.861334+00:00",
+  "jordan-gibbs/hyperresearch": "2026-09-11T13:14:28.861334+00:00",
+  "alphaXiv/OpenResearch": "2026-09-11T13:14:28.861334+00:00"
 }
