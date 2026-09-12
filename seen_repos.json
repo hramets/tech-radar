@@ -1,14 +1,4 @@
 {
-  "macro-inc/macro": "2026-08-13T10:03:05.870712+00:00",
-  "hugohe3/ppt-master": "2026-08-13T10:03:05.870712+00:00",
-  "infiniflow/ragflow": "2026-08-13T10:03:05.870712+00:00",
-  "NVIDIA-NeMo/Switchyard": "2026-08-13T10:03:05.870712+00:00",
-  "ZuodaoTech/everyone-can-use-english": "2026-08-13T10:03:05.870712+00:00",
-  "smicallef/spiderfoot": "2026-08-13T10:03:05.870712+00:00",
-  "localsend/localsend": "2026-08-13T10:03:05.870712+00:00",
-  "Lightricks/LTX-2": "2026-08-13T10:03:05.870712+00:00",
-  "embabel/embabel-agent": "2026-08-13T10:03:05.870712+00:00",
-  "cactus-compute/needle": "2026-08-13T10:03:05.870712+00:00",
   "altic-dev/FluidVoice": "2026-08-14T09:59:09.207471+00:00",
   "unslothai/unsloth": "2026-08-14T09:59:09.207471+00:00",
   "megadose/holehe": "2026-08-14T09:59:09.207471+00:00",
@@ -175,5 +165,12 @@
   "jihe520/MathModelAgent": "2026-09-11T13:14:28.861334+00:00",
   "p1neappleXpress/OpenFlux": "2026-09-11T13:14:28.861334+00:00",
   "jordan-gibbs/hyperresearch": "2026-09-11T13:14:28.861334+00:00",
-  "alphaXiv/OpenResearch": "2026-09-11T13:14:28.861334+00:00"
+  "alphaXiv/OpenResearch": "2026-09-11T13:14:28.861334+00:00",
+  "asgeirtj/system_prompts_leaks": "2026-09-12T12:37:35.477023+00:00",
+  "Flowseal/zapret-discord-youtube": "2026-09-12T12:37:35.477023+00:00",
+  "yuliskov/SmartTube": "2026-09-12T12:37:35.477023+00:00",
+  "SnailSploit/Claude-Red": "2026-09-12T12:37:35.477023+00:00",
+  "multimodal-art-projection/YuE": "2026-09-12T12:37:35.477023+00:00",
+  "max-sixty/worktrunk": "2026-09-12T12:37:35.477023+00:00",
+  "vxcontrol/pentagi": "2026-09-12T12:37:35.477023+00:00"
 }
