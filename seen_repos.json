@@ -1,10 +1,4 @@
 {
-  "altic-dev/FluidVoice": "2026-08-14T09:59:09.207471+00:00",
-  "unslothai/unsloth": "2026-08-14T09:59:09.207471+00:00",
-  "megadose/holehe": "2026-08-14T09:59:09.207471+00:00",
-  "holaboss-ai/holaOS": "2026-08-14T09:59:09.207471+00:00",
-  "kepano/obsidian-skills": "2026-08-14T09:59:09.207471+00:00",
-  "lightningpixel/modly": "2026-08-14T09:59:09.207471+00:00",
   "github/spec-kit": "2026-08-15T09:23:54.056966+00:00",
   "cursor/plugins": "2026-08-15T09:23:54.056966+00:00",
   "deepseek-ai/awesome-deepseek-agent": "2026-08-15T09:23:54.056966+00:00",
@@ -172,5 +166,13 @@
   "SnailSploit/Claude-Red": "2026-09-12T12:37:35.477023+00:00",
   "multimodal-art-projection/YuE": "2026-09-12T12:37:35.477023+00:00",
   "max-sixty/worktrunk": "2026-09-12T12:37:35.477023+00:00",
-  "vxcontrol/pentagi": "2026-09-12T12:37:35.477023+00:00"
+  "vxcontrol/pentagi": "2026-09-12T12:37:35.477023+00:00",
+  "ever-co/ever-gauzy": "2026-09-13T13:40:03.689450+00:00",
+  "tech-leads-club/agent-skills": "2026-09-13T13:40:03.689450+00:00",
+  "calesthio/OpenMontage": "2026-09-13T13:40:03.689450+00:00",
+  "alibaba/open-code-review": "2026-09-13T13:40:03.689450+00:00",
+  "tonhowtf/omniget": "2026-09-13T13:40:03.689450+00:00",
+  "jiji262/douyin-downloader": "2026-09-13T13:40:03.689450+00:00",
+  "Swordfish90/cool-retro-term": "2026-09-13T13:40:03.689450+00:00",
+  "huggingface/transformers": "2026-09-13T13:40:03.689450+00:00"
 }
