@@ -1,8 +1,4 @@
 {
-  "cordiverse/cordis": "2026-08-16T09:25:22.606342+00:00",
-  "public-apis/public-apis": "2026-08-16T09:25:22.606342+00:00",
-  "MakazhanAlpamys/Soup": "2026-08-16T09:25:22.606342+00:00",
-  "HKUDS/CLI-Anything": "2026-08-16T09:25:22.606342+00:00",
   "basecamp/omarchy": "2026-08-17T09:38:50.233740+00:00",
   "harry0703/MoneyPrinterTurbo": "2026-08-18T09:31:04.963419+00:00",
   "usestrix/strix": "2026-08-18T09:31:04.963419+00:00",
@@ -177,5 +173,10 @@
   "OpenBMB/VoxCPM": "2026-09-14T15:39:50.109241+00:00",
   "Crosstalk-Solutions/project-nomad": "2026-09-14T15:39:50.109241+00:00",
   "reconurge/flowsint": "2026-09-14T15:39:50.109241+00:00",
-  "peetzweg/opendisplay": "2026-09-14T15:39:50.109241+00:00"
+  "peetzweg/opendisplay": "2026-09-14T15:39:50.109241+00:00",
+  "Homebrew/BrewUI": "2026-09-15T14:10:09.932712+00:00",
+  "danny-avila/LibreChat": "2026-09-15T14:10:09.932712+00:00",
+  "MG1937/ASC": "2026-09-15T14:10:09.932712+00:00",
+  "addyosmani/agent-skills": "2026-09-15T14:10:09.932712+00:00",
+  "earendil-works/pi": "2026-09-15T14:10:09.932712+00:00"
 }
