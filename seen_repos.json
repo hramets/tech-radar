@@ -1,5 +1,4 @@
 {
-  "basecamp/omarchy": "2026-08-17T09:38:50.233740+00:00",
   "harry0703/MoneyPrinterTurbo": "2026-08-18T09:31:04.963419+00:00",
   "usestrix/strix": "2026-08-18T09:31:04.963419+00:00",
   "nautechsystems/nautilus_trader": "2026-08-18T09:31:04.963419+00:00",
@@ -178,5 +177,14 @@
   "danny-avila/LibreChat": "2026-09-15T14:10:09.932712+00:00",
   "MG1937/ASC": "2026-09-15T14:10:09.932712+00:00",
   "addyosmani/agent-skills": "2026-09-15T14:10:09.932712+00:00",
-  "earendil-works/pi": "2026-09-15T14:10:09.932712+00:00"
+  "earendil-works/pi": "2026-09-15T14:10:09.932712+00:00",
+  "cloudflare/security-audit-skill": "2026-09-16T14:02:12.528032+00:00",
+  "abue-ammar/tinycast": "2026-09-16T14:02:12.528032+00:00",
+  "jamiepine/voicebox": "2026-09-16T14:02:12.528032+00:00",
+  "anthropics/knowledge-work-plugins": "2026-09-16T14:02:12.528032+00:00",
+  "ankitects/anki": "2026-09-16T14:02:12.528032+00:00",
+  "roboflow/supervision": "2026-09-16T14:02:12.528032+00:00",
+  "supabase/supabase": "2026-09-16T14:02:12.528032+00:00",
+  "Tencent/WeKnora": "2026-09-16T14:02:12.528032+00:00",
+  "cline/cline": "2026-09-16T14:02:12.528032+00:00"
 }
