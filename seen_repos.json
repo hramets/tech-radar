@@ -1,14 +1,4 @@
 {
-  "harry0703/MoneyPrinterTurbo": "2026-08-18T09:31:04.963419+00:00",
-  "usestrix/strix": "2026-08-18T09:31:04.963419+00:00",
-  "nautechsystems/nautilus_trader": "2026-08-18T09:31:04.963419+00:00",
-  "akitaonrails/ai-memory": "2026-08-18T09:31:04.963419+00:00",
-  "mukul975/Anthropic-Cybersecurity-Skills": "2026-08-18T09:31:04.963419+00:00",
-  "AlexsJones/llmfit": "2026-08-18T09:31:04.963419+00:00",
-  "santifer/career-ops": "2026-08-18T09:31:04.963419+00:00",
-  "jundot/omlx": "2026-08-18T09:31:04.963419+00:00",
-  "immich-app/immich": "2026-08-18T09:31:04.963419+00:00",
-  "agalwood/Motrix": "2026-08-18T09:31:04.963419+00:00",
   "chaitanyagiri/munder-difflin": "2026-08-19T09:31:46.050429+00:00",
   "volcengine/OpenViking": "2026-08-19T09:31:46.050429+00:00",
   "NawfalMotii79/PLFM_RADAR": "2026-08-19T09:31:46.050429+00:00",
@@ -186,5 +176,9 @@
   "roboflow/supervision": "2026-09-16T14:02:12.528032+00:00",
   "supabase/supabase": "2026-09-16T14:02:12.528032+00:00",
   "Tencent/WeKnora": "2026-09-16T14:02:12.528032+00:00",
-  "cline/cline": "2026-09-16T14:02:12.528032+00:00"
+  "cline/cline": "2026-09-16T14:02:12.528032+00:00",
+  "Tencent/BrowserSkill": "2026-09-17T14:06:08.953411+00:00",
+  "cilium/cilium": "2026-09-17T14:06:08.953411+00:00",
+  "TencentCloud/Octop": "2026-09-17T14:06:08.953411+00:00",
+  "coder/coder": "2026-09-17T14:06:08.953411+00:00"
 }
