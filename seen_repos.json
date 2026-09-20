@@ -1,13 +1,4 @@
 {
-  "modular/modular": "2026-08-21T09:34:18.124974+00:00",
-  "AprilNEA/OpenLogi": "2026-08-21T09:34:18.124974+00:00",
-  "agent-substrate/substrate": "2026-08-21T09:34:18.124974+00:00",
-  "PostHog/posthog": "2026-08-21T09:34:18.124974+00:00",
-  "mahlernim/google-timeline-visualizer": "2026-08-21T09:34:18.124974+00:00",
-  "JuliusBrussee/caveman": "2026-08-21T09:34:18.124974+00:00",
-  "makeplane/plane": "2026-08-21T09:34:18.124974+00:00",
-  "Tencent/AI-Infra-Guard": "2026-08-21T09:34:18.124974+00:00",
-  "RyanCodrai/turbovec": "2026-08-21T09:34:18.124974+00:00",
   "microsoft/TypeScript": "2026-08-22T09:24:26.231320+00:00",
   "TryGhost/Ghost": "2026-08-22T09:24:26.231320+00:00",
   "ruvnet/ruflo": "2026-08-22T09:24:26.231320+00:00",
@@ -188,5 +179,10 @@
   "ruanyf/weekly": "2026-09-19T12:52:39.449376+00:00",
   "ZuodaoTech/everyone-can-use-english": "2026-09-19T12:52:39.449376+00:00",
   "cactus-compute/needle": "2026-09-19T12:52:39.449376+00:00",
-  "yynxxxxx/Codex-X": "2026-09-19T12:52:39.449376+00:00"
+  "yynxxxxx/Codex-X": "2026-09-19T12:52:39.449376+00:00",
+  "BuilderIO/agent-native": "2026-09-20T13:27:22.127183+00:00",
+  "anthropics/financial-services": "2026-09-20T13:27:22.127183+00:00",
+  "paperless-ngx/paperless-ngx": "2026-09-20T13:27:22.127183+00:00",
+  "mihail911/modern-software-dev-assignments": "2026-09-20T13:27:22.127183+00:00",
+  "vercel-labs/json-render": "2026-09-20T13:27:22.127183+00:00"
 }
