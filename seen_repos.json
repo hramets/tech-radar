@@ -1,11 +1,4 @@
 {
-  "microsoft/TypeScript": "2026-08-22T09:24:26.231320+00:00",
-  "TryGhost/Ghost": "2026-08-22T09:24:26.231320+00:00",
-  "ruvnet/ruflo": "2026-08-22T09:24:26.231320+00:00",
-  "apache/maka": "2026-08-22T09:24:26.231320+00:00",
-  "protocolbuffers/protobuf": "2026-08-22T09:24:26.231320+00:00",
-  "elder-plinius/OBLITERATUS": "2026-08-22T09:24:26.231320+00:00",
-  "microsoft/onnxruntime": "2026-08-22T09:24:26.231320+00:00",
   "openai/codex": "2026-08-23T09:25:28.553834+00:00",
   "Wei-Shaw/sub2api": "2026-08-23T09:25:28.553834+00:00",
   "n8n-io/n8n": "2026-08-23T09:25:28.553834+00:00",
@@ -184,5 +177,8 @@
   "anthropics/financial-services": "2026-09-20T13:27:22.127183+00:00",
   "paperless-ngx/paperless-ngx": "2026-09-20T13:27:22.127183+00:00",
   "mihail911/modern-software-dev-assignments": "2026-09-20T13:27:22.127183+00:00",
-  "vercel-labs/json-render": "2026-09-20T13:27:22.127183+00:00"
+  "vercel-labs/json-render": "2026-09-20T13:27:22.127183+00:00",
+  "akitaonrails/ai-memory": "2026-09-21T15:40:22.643691+00:00",
+  "mvt-project/mvt": "2026-09-21T15:40:22.643691+00:00",
+  "zhouxiaoka/autoclip": "2026-09-21T15:40:22.643691+00:00"
 }
