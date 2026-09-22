@@ -1,10 +1,4 @@
 {
-  "openai/codex": "2026-08-23T09:25:28.553834+00:00",
-  "Wei-Shaw/sub2api": "2026-08-23T09:25:28.553834+00:00",
-  "n8n-io/n8n": "2026-08-23T09:25:28.553834+00:00",
-  "anthropics/claude-code": "2026-08-23T09:25:28.553834+00:00",
-  "multica-ai/andrej-karpathy-skills": "2026-08-23T09:25:28.553834+00:00",
-  "ripienaar/free-for-dev": "2026-08-23T09:25:28.553834+00:00",
   "freestylefly/awesome-gpt-image-2": "2026-08-24T09:44:49.320342+00:00",
   "mattpocock/skills": "2026-08-24T09:44:49.320342+00:00",
   "block/buzz": "2026-08-24T09:44:49.320342+00:00",
@@ -180,5 +174,11 @@
   "vercel-labs/json-render": "2026-09-20T13:27:22.127183+00:00",
   "akitaonrails/ai-memory": "2026-09-21T15:40:22.643691+00:00",
   "mvt-project/mvt": "2026-09-21T15:40:22.643691+00:00",
-  "zhouxiaoka/autoclip": "2026-09-21T15:40:22.643691+00:00"
+  "zhouxiaoka/autoclip": "2026-09-21T15:40:22.643691+00:00",
+  "agent-substrate/substrate": "2026-09-22T13:54:14.250430+00:00",
+  "dream-num/univer": "2026-09-22T13:54:14.250430+00:00",
+  "davila7/claude-code-templates": "2026-09-22T13:54:14.250430+00:00",
+  "google/ax": "2026-09-22T13:54:14.250430+00:00",
+  "superdesigndev/treg": "2026-09-22T13:54:14.250430+00:00",
+  "browser-use/video-use": "2026-09-22T13:54:14.250430+00:00"
 }
