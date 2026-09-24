@@ -1,9 +1,4 @@
 {
-  "MadsLorentzen/ai-job-search": "2026-08-25T09:33:08.917444+00:00",
-  "openclaw/openclaw": "2026-08-25T09:33:08.917444+00:00",
-  "AgriciDaniel/claude-obsidian": "2026-08-25T09:33:08.917444+00:00",
-  "rohitg00/ai-engineering-from-scratch": "2026-08-25T09:33:08.917444+00:00",
-  "tashfeenahmed/freellmapi": "2026-08-25T09:33:08.917444+00:00",
   "Shubhamsaboo/awesome-llm-apps": "2026-08-26T09:38:34.334489+00:00",
   "marin-community/marin": "2026-08-26T09:38:34.334489+00:00",
   "DietrichGebert/ponytail": "2026-08-26T09:38:34.334489+00:00",
@@ -178,5 +173,11 @@
   "pbakaus/impeccable": "2026-09-23T14:04:48.100865+00:00",
   "DeusData/codebase-memory-mcp": "2026-09-23T14:04:48.100865+00:00",
   "harry7557558/spirula-studio": "2026-09-23T14:04:48.100865+00:00",
-  "TNT-Likely/PanWatch": "2026-09-23T14:04:48.100865+00:00"
+  "TNT-Likely/PanWatch": "2026-09-23T14:04:48.100865+00:00",
+  "rohitg00/ai-engineering-from-scratch": "2026-09-24T14:01:24.136102+00:00",
+  "vectorize-io/hindsight": "2026-09-24T14:01:24.136102+00:00",
+  "NVIDIA/Model-Optimizer": "2026-09-24T14:01:24.136102+00:00",
+  "FxEmbed/FxEmbed": "2026-09-24T14:01:24.136102+00:00",
+  "julyx10/lap": "2026-09-24T14:01:24.136102+00:00",
+  "leejet/stable-diffusion.cpp": "2026-09-24T14:01:24.136102+00:00"
 }
