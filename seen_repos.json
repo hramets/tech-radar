@@ -1,9 +1,4 @@
 {
-  "Shubhamsaboo/awesome-llm-apps": "2026-08-26T09:38:34.334489+00:00",
-  "marin-community/marin": "2026-08-26T09:38:34.334489+00:00",
-  "DietrichGebert/ponytail": "2026-08-26T09:38:34.334489+00:00",
-  "anthropics/claude-plugins-official": "2026-08-26T09:38:34.334489+00:00",
-  "asciimoo/hister": "2026-08-26T09:38:34.334489+00:00",
   "zedeus/nitter": "2026-08-27T19:26:07.196250+00:00",
   "tt-a1i/archify": "2026-08-27T19:26:07.196250+00:00",
   "JetBrains/go-modern-guidelines": "2026-08-27T19:26:07.196250+00:00",
@@ -179,5 +174,14 @@
   "NVIDIA/Model-Optimizer": "2026-09-24T14:01:24.136102+00:00",
   "FxEmbed/FxEmbed": "2026-09-24T14:01:24.136102+00:00",
   "julyx10/lap": "2026-09-24T14:01:24.136102+00:00",
-  "leejet/stable-diffusion.cpp": "2026-09-24T14:01:24.136102+00:00"
+  "leejet/stable-diffusion.cpp": "2026-09-24T14:01:24.136102+00:00",
+  "paperclipai/paperclip": "2026-09-25T14:25:30.785408+00:00",
+  "anthropics/claude-plugins-official": "2026-09-25T14:25:30.785408+00:00",
+  "mattpocock/skills": "2026-09-25T14:25:30.785408+00:00",
+  "anthropics/skills": "2026-09-25T14:25:30.785408+00:00",
+  "androoAGI/starnet": "2026-09-25T14:25:30.785408+00:00",
+  "derv82/wifit3": "2026-09-25T14:25:30.785408+00:00",
+  "kelseyhightower/kubernetes-the-hard-way": "2026-09-25T14:25:30.785408+00:00",
+  "shy3130/tick-stock-panel": "2026-09-25T14:25:30.785408+00:00",
+  "openbao/openbao": "2026-09-25T14:25:30.785408+00:00"
 }
