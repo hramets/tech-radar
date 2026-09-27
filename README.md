@@ -9,7 +9,6 @@ The bot is fully automated using **GitHub Actions** — no server or local compu
 
 - Aggregates news from:
   - RSS feeds (VentureBeat, MIT Technology Review, TLDR AI, etc.)
-  - GitHub Trending projects
 - Uses OpenAI API to summarize and select the **most important items**
 - Sends daily digest to your **Telegram chat**
 - Fully automated with **GitHub Actions** (daily cron job)
